@@ -1,4 +1,4 @@
-##All the books that we will follow and read and take notes one by one. Below are the drive links of the books:<br/>
+## All the books that we will follow and read and take notes one by one. Below are the drive links of the books:<br/>
 Beginning Programming with Java for Dummies 4th Edition by Barry Burd<br/>
 Core Java Volume I-Fundamentals Horstmann Cay S<br/>
 Core Java Volume Il - Advanced Features - Horstmann Cay S<br/>

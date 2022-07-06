@@ -20,7 +20,7 @@ Java Notes For Professionals
 Java The Complete Reference 12th Edition by Herbert Schildt
 
 <br/>
-[Click Here to Go to W3resource](https://www.w3resource.com/java-tutorial/)
+[W3resource](https://www.w3resource.com/java-tutorial/)
 
 [Click Here to Go to Geeks for Geeks](https://www.geeksforgeeks.org/java/)
 

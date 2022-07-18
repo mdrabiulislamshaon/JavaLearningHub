@@ -9,6 +9,7 @@
 [Java for Dummies 7th Edition by Barry Burd](https://drive.google.com/file/d/1MSUbMvA_gsXCNMmhPhoMZSMtft3Ab7lR/view?usp=sharing)<br/>
 [Java Notes For Professionals](https://drive.google.com/file/d/1xlEef75aL4oO62Debe78biUxThJhQ952/view?usp=sharing)<br/>
 [Java The Complete Reference 12th Edition by Herbert Schildt](https://drive.google.com/file/d/1zPcPeQtEDn06oh69zUH0LnyCRT3Xlyx3/view?usp=sharing)<br/>
+[Programming with Java: A Primer Dr E Balagurusamy](https://drive.google.com/file/d/1iWlrOYPxp-yRuF17EEgU30sk1NOvMJC8/view?usp=sharing)<br/>
 
 ## We will follow the following websites step by step and watch and note all the tutorials one by one. Here is the list of websites:<br/>
 [Click Here to Go to W3resource](https://www.w3resource.com/java-tutorial/)<br/>
